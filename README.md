@@ -65,8 +65,10 @@ I build VR games with **Unity Engine**.
 
 > _"wdmvnw"_
 
-![goob](goob.png)
-![goobtwo](goobtwo.png)
-![goobthree](goobthree.png)
-![goobfour](goobfour.png)
-![goobfive](goobfive.png)
+<p align="center">
+  <img src="goob.png" height="100">
+  <img src="goobtwo.png" height="100">
+  <img src="goobthree.png" alt="goob" height="100">
+  <img src="goobfour.png" height="100">
+  <img src="goobfive.png" alt="goob" height="100">
+</
