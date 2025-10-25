@@ -62,13 +62,17 @@ I build VR games with **Unity Engine**.
 - **Team:** [Lumina Team](https://luminateam.dev)
 
 ---
-
 > _"wdmvnw"_
 
 <p align="center">
   <img src="goob.png" height="100">
   <img src="goobtwo.png" height="100">
-  <img src="goobthree.png" alt="goob" height="100">
+  <img src="goobthree.png" height="100">
   <img src="goobfour.png" height="100">
-  <img src="goobfive.png" alt="goob" height="100">
+  <img src="goobfive.png" height="100">
+  <img src="grandpa.png" height="100">
+  <img src="whatsapp_ds.jpg" height="100">
+  <img src="79m9ck.jpg" height="100">
+  <img src="9kfd6qil2x681.jpg" height="100">
+  <img src="515083202_18054670109346477_8322925008111683716_n.jpg" height="100">
 </
